@@ -15,9 +15,7 @@ pdf 자료는 [슈퍼 마리오 게임으로 알아보는 ClusterIP vs Nod
 
 ## 발표
 - 주제: 슈퍼 마리오 게임으로 알아보는 ClusterIP vs NodePort vs Ingress + Istio
-<br />
 - 일시: 2022년 03월 19일 토요일 19시-21시
-<br />
 - 장소: Kubernetes Korea Group 온라인 meet up
 
 <br />
